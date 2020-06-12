@@ -1,4 +1,4 @@
-*** Episode 1
+###  Episode 1
 
 Why:
 Learn how to get and use canvas and 2d context
